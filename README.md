@@ -1,1 +1,3 @@
-Praktikum DTS CC 
+Praktikum DTS CC
+- KOMINFO 
+- UNTAN Mulia, Cyber University
